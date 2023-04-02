@@ -52,7 +52,7 @@ patient pt;
 				}
 			if(z==2&&pass!=1234)
 				{
-					printf("You entered wrong password 3 times programme will stop (~_~)");
+					printf("You entered wrong password 3 times program will stop (~_~)");
 				}
 			else if(pass==1234)/*--------->when password is true*/								  
 				{	began2:														  							
