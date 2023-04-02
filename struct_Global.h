@@ -1,8 +1,7 @@
 
 
-
-#include<stdlib.h>
 #include"STD_TYPES.h"
+#include<stdlib.h>
 typedef struct patientc
 {
 	u8 name[20];
