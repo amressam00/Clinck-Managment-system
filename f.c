@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include"def.h"
-#include<stdlib.h>
+#include<STD_TYPES.h>
 #include<string.h>
 void add_patient(u8 *Name,u32 Age,u8 *Gender, u32 id,u32 so);
 void id_ckeck(u32 id);
