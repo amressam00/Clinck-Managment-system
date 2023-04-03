@@ -176,7 +176,7 @@ void print(u32 idu)
 				{     
 					patient * pn10 = head;
 						u32 *p1=&a;u32 *p2=&b;	u32 *p3=&d; u32 *p4=&e;u32 *p5=&f;	
-					while(head!= NULL)
+					while(pn10!= NULL)
 					{ 
 					 if(pn10->ID==idu)
 					 {	printf("Name= %s\n",pn10->name);
